@@ -8,5 +8,5 @@ spec:
   resources:
     requests:
       storage: 1Gi
-  storageClassName: ""  # <-- Esto fuerza a usar PVs estáticos como el tuyo
+  storageClassName: ""  
 
